@@ -7,7 +7,7 @@
 
 ## StringBuilder
 - [StringBuilder прошлое и настоящее](https://habr.com/ru/post/172689/)
-- (referencesource.StringBuilder)(https://referencesource.microsoft.com/#mscorlib/system/text/stringbuilder.cs,adf60ee46ebd299f)
+- [referencesource.StringBuilder](https://referencesource.microsoft.com/#mscorlib/system/text/stringbuilder.cs,adf60ee46ebd299f)
 
 # 29.04.2019 (deadline - 12.00)
 
