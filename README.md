@@ -1,5 +1,5 @@
 ## Encoding
-- [Юникод и .NET](https://m.habr.com/ru/post/193048/)
+- [Юникод и .NET](https://m.habr.com/ru/post/193048/) - **обязательна к прочтению!**
 
 ## String
 - [referencesource.String ](https://referencesource.microsoft.com/#mscorlib/system/string.cs,8281103e6f23cb5c)
