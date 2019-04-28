@@ -46,5 +46,4 @@ namespace StringExtension.Tests
         => Assert.Throws<ArgumentOutOfRangeException>(
             () => _stringConverter.Convert("Привет Епам!", -1));
     }
-
 }

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtension", "StringEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtension.Tests", "StringExtension.Tests\StringExtension.Tests.csproj", "{4789C0D0-4A7F-45D9-A8EA-F6FFB4EFD51D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtensionWithFiles", "StringExtensionWithFiles\StringExtensionWithFiles.csproj", "{012CEDB3-7C0E-455F-9E19-8394AB28B951}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4789C0D0-4A7F-45D9-A8EA-F6FFB4EFD51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4789C0D0-4A7F-45D9-A8EA-F6FFB4EFD51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4789C0D0-4A7F-45D9-A8EA-F6FFB4EFD51D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{012CEDB3-7C0E-455F-9E19-8394AB28B951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012CEDB3-7C0E-455F-9E19-8394AB28B951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012CEDB3-7C0E-455F-9E19-8394AB28B951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012CEDB3-7C0E-455F-9E19-8394AB28B951}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
