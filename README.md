@@ -19,7 +19,7 @@
 - [StringBuilder прошлое и настоящее](https://habr.com/ru/post/172689/) - **обязательна к прочтению!**
 - [referencesource.StringBuilder](https://referencesource.microsoft.com/#mscorlib/system/text/stringbuilder.cs,adf60ee46ebd299f)
 
-# Задания
+## Задания
 
 1.  **(deadline - 29.04.2019, 12.00)** Реализовать метод, который принимает на вход строку **source** и количество итераций **count** (проект *StringExtension*).
 
