@@ -6,7 +6,7 @@
 - [Строки, неизменяемость и персистентность. Невероятные приключения в коде. Перевод блога Эрика Липперта](https://blogs.msdn.microsoft.com/ruericlippert/2011/08/08/653/)
 
 ## StringBuilder
-- [StringBuilder прошлое и настоящее](https://habr.com/ru/post/172689/) - обязательна к прочтению!
+- [StringBuilder прошлое и настоящее](https://habr.com/ru/post/172689/) - **обязательна к прочтению!**
 - [referencesource.StringBuilder](https://referencesource.microsoft.com/#mscorlib/system/text/stringbuilder.cs,adf60ee46ebd299f)
 
 # 29.04.2019 (deadline - 12.00)
