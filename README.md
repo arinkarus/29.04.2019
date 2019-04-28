@@ -1,6 +1,7 @@
 ## String
 - [referencesource.String ](https://referencesource.microsoft.com/#mscorlib/system/string.cs,8281103e6f23cb5c)
 - [Особенности строк в .NET](https://habr.com/ru/post/172627/) - **обязательна к прочтению!**
+- [New Recommendations for Using Strings in Microsoft .NET 2.0]()
 - [String.Intern делает строки ещё интереснее](https://habr.com/ru/post/224281/)
 - [Строки в C# и .NET](https://habr.com/ru/post/165597/)
 - [Строки, неизменяемость и персистентность. Невероятные приключения в коде. Перевод блога Эрика Липперта](https://blogs.msdn.microsoft.com/ruericlippert/2011/08/08/653/)
