@@ -1,3 +1,6 @@
+## Encoding
+- [Юникод и .NET](https://m.habr.com/ru/post/193048/)
+
 ## String
 - [referencesource.String ](https://referencesource.microsoft.com/#mscorlib/system/string.cs,8281103e6f23cb5c)
 - [Особенности строк в .NET](https://habr.com/ru/post/172627/) - **обязательна к прочтению!**
