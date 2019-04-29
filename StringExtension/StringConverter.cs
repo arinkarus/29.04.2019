@@ -23,7 +23,7 @@ namespace StringExtension
             {
                 throw new ArgumentException();
             }
-            var stringBuilder = new StringBuilder(source);
+            var stringBuilder = new StringBuilder();
 
             for (int j = 0; j < count; j++)
             {
@@ -39,7 +39,8 @@ namespace StringExtension
                   source = stringBuilder.ToString();
                   stringBuilder.Clear();
             }
-            return stringBuilder.ToString();
+
+            return source;
         }
     }
 }
