@@ -13,12 +13,18 @@ namespace StringExtension
             var evenNumbers = new StringBuilder();
             int period = count % source.Length;
             int iterationCountForSource = source.Length / 2;
+            int evenNumber = source.Length % 2;
             for (int j = 0; j < period; j++)
             {               
                 for (int i = 0; i < iterationCountForSource; i++)
                 {
                     evenNumbers.Append(stringBuilder[2 * i]);
                     oddNumbers.Append(stringBuilder[2 * i + 1]);
+                }
+
+                if (evenNumber == 1)
+                {
+                    oddNumbers.Append(stringBuilder[source.Length - 1]);
                 }
 
                 stringBuilder.Clear();
