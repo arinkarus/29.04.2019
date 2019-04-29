@@ -11,7 +11,9 @@ namespace StringExtension.Tests
     public class StringConverterNuTests
     {
         private readonly StringConverter _stringConverter = new StringConverter();
-
+        [TestCase("x", int.MaxValue, ExpectedResult = "x")]
+        [TestCase("1234567", 7, ExpectedResult = "1234567")]
+        [TestCase("ТелевизорЪ", 5, ExpectedResult = "ТиезлоервЪ")]
         [TestCase("Привет Епам!", 1, ExpectedResult = "Пие пмрвтЕа!")]
         [TestCase("Привет Епам!", 2, ExpectedResult = "Пепртаи мвЕ!")]
         [TestCase("1234567890", int.MaxValue, ExpectedResult = "1357924680")]
